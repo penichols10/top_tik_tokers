@@ -1,0 +1,2 @@
+# Introduction
+I found some data on Kaggle listing the top 1000 users and some features describing their user engagement metrics. I was curious as to first whether the rank was some linear combination of those features and second whether the rank could be determined using a linear model at all. The notebook in this repository contains the analysis that led to me answering no to both questions.
